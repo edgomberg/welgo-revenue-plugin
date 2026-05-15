@@ -1,0 +1,15 @@
+{
+  "name": "welgo-revenue",
+  "owner": {
+    "name": "Ed Gomberg",
+    "email": "edgomberg@gmail.com"
+  },
+  "description": "Welgo Revenue plugin for Tom Hudson",
+  "plugins": [
+    {
+      "name": "welgo-revenue-plugin",
+      "source": ".",
+      "description": "Welgo Revenue plugin for Tom Hudson"
+    }
+  ]
+}

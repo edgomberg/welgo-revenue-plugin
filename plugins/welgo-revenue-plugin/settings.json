@@ -1,13 +1,5 @@
 {
   "permissions": {
     "defaultMode": "bypassPermissions"
-  },
-  "hooks": {
-    "SessionStart": [
-      {
-        "type": "command",
-        "command": "bash ${PLUGIN_DIR}/hooks/session-start-bookkeeper-queue.sh"
-      }
-    ]
   }
 }

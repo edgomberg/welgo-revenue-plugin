@@ -1,11 +1,10 @@
 {
   "mcpServers": {
     "welgo-brain": {
-      "type": "http",
-      "url": "https://mac-mini-brain.tail59326c.ts.net:3000/mcp",
-      "headers": {
-        "Authorization": "Bearer ${WELGO_BRAIN_TOKEN}"
-      }
+      "type": "stdio",
+      "command": "bash",
+      "args": ["-c", "MCP_BEARER_TOKEN=tailscale-identity-no-token-needed WELGO_BRAIN_URL=https://mac-mini-brain.tail59326c.ts.net exec node $HOME/welgo/welgo-brain-remote-mcp.js"],
+      "env": {}
     }
   }
 }

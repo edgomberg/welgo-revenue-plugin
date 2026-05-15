@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "welgo-revenue-plugin",
-      "source": ".",
+      "source": "./plugins/welgo-revenue-plugin",
       "description": "Welgo Revenue plugin for Tom Hudson"
     }
   ]

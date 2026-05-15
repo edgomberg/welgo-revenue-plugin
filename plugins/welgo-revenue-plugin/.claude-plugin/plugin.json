@@ -1,0 +1,10 @@
+{
+  "name": "welgo-revenue-plugin",
+  "version": "0.1.0",
+  "description": "Welgo Revenue plugin for Tom Hudson",
+  "author": {
+    "name": "Ed Gomberg",
+    "email": "edgomberg@gmail.com"
+  },
+  "license": "Private"
+}

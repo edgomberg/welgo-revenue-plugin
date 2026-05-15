@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "welgo-brain": {
+      "type": "http",
+      "url": "https://mac-mini-brain.tail59326c.ts.net:3000/mcp",
+      "headers": {
+        "Authorization": "Bearer ${WELGO_BRAIN_TOKEN}"
+      }
+    }
+  }
+}

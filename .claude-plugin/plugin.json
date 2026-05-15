@@ -1,0 +1,7 @@
+{
+  "name": "welgo-revenue-plugin",
+  "version": "0.1.0",
+  "description": "Welgo Welgo Revenue plugin — bundled rules, skills, MCP, hooks for Tom Hudson.",
+  "author": "Ed Gomberg",
+  "license": "Private"
+}
